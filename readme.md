@@ -22,6 +22,16 @@ I want  to spent my free time into something useful that can bring me some money
 
 ## Skills
 
+### Soft Skills
+
+- Problem-solving skills
+- Proactive attitude
+- Love for spreading cool technologies
+- Time management abilities
+- Ability to accept and learn from criticism
+- Flexibility/Adaptability
+- Enjoy working in team
+
 ### Technical Skills
 
 #### Software Development
@@ -64,3 +74,15 @@ I want  to spent my free time into something useful that can bring me some money
 
 BSUIR faculty of infocommunications
 *2017* - *2021*
+
+## Code examples
+
+> Some of my projects.
+
+#### [Love-triangle](https://github.com/koverboy/love-triangle)
+
+> Implement function getLoveTrianglesCount which calculates how many love triangles phenomenons take place. .
+
+#### [Image-interpolation](https://github.com/koverboy/image-interpolation)
+
+> Interpolate images in four ways
