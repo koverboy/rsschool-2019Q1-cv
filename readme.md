@@ -1,4 +1,4 @@
-#Kauryha Mikita
+# Kauryha Mikita
 
 **Location:** Minsk, Belarus
 
