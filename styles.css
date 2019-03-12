@@ -1,14 +1,32 @@
-
-
 @font-face {
     font-family: MyUniqueFont;
-    src: url('9404.ttf');
+    src: url('9407.ttf');
 }
 html{
     font-family: MyUniqueFont, sans-serif;
 }
-.head{
+body{
     width: 1024px;
+    text-align: left;
+    opacity: 0.8;
+    font-size: 15px;
+    font-weight: normal;
+}
 
+a {
+    text-decoration: none;
+}
 
+a:hover {
+    text-decoration: underline;
+}
+
+hr {
+    opacity: 0.3;
+}
+
+blockquote {
+    padding: 0 1em;
+    color: #6a737d;
+    border-left: 0.25em solid #dfe2e5;
 }
